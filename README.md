@@ -1,1 +1,1 @@
-Calculator devops project  
+Calculator DevOps Project  
