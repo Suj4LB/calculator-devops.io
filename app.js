@@ -20,6 +20,7 @@ var screen=document.querySelector('#screen');
           screen.value+=btntext;
           });
       }
+// code for some functions like  sin,cos,tan etc
 function sin()
     {
         screen.value=math.sin(screen.value);
