@@ -10,7 +10,20 @@
 </head> 
 
 <body>
-        
+        <div class="container">
+            <div class="display">
+                <input id="screen" type="text" placeholder="0">
+            </div>
+
+            <div class="btns">
+                <div class="row">
+                    <button id="ce" onclick="backspc()">CE</button>
+                    <button onclick="fact()">x!</button>
+                    <button class="btn">(</button>
+                    <button class="btn">)</button>
+                    <button class="btn">%</button>
+                    <button id="ac" onclick="screen.value=''">AC</button>
+                </div>
 </body>
 
 </html>
