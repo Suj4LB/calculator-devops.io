@@ -20,12 +20,12 @@ var screen=document.querySelector('#screen');
           screen.value+=btntext;
           });
       }
-// code for some functions like  sin, cos,tan, etc
+// function for sin
 function sin()
     {
         screen.value=math.sin(screen.value);
     }
-
+//function for cos
 function cos()
     {
         screen.value=Math.cos(screen.value);
