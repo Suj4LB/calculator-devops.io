@@ -74,7 +74,7 @@ function e()
 
         screen.value=f;
     }
-
+//function for result and reset
     function backspc()
     {
         screen.value=screen.value.slice(0,-1);
