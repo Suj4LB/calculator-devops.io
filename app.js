@@ -55,6 +55,7 @@ function pi()
     {
         screen.value= 3.14159265359;
     }
+//function for e
 function e()
     {
         screen.value=2.71828182846;
