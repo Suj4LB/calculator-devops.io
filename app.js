@@ -45,6 +45,7 @@ function pow()
     {
         screen.value=Math.sqrt(screen.value,2);
     }
+//function for log
 function log()
     {
         screen.value=Math.log(screen.value);
