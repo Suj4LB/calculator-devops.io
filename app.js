@@ -23,7 +23,7 @@ var screen=document.querySelector('#screen');
 // function for sin
 function sin()
     {
-        screen.value=math.sin(screen.value);
+        screen.value=Math.sin(screen.value);
     }
 //function for cos
 function cos()
