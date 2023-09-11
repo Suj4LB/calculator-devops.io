@@ -50,6 +50,7 @@ function log()
     {
         screen.value=Math.log(screen.value);
     }
+//function for pi
 function pi()
     {
         screen.value= 3.14159265359;
