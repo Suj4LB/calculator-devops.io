@@ -30,6 +30,7 @@ function cos()
     {
         screen.value=Math.cos(screen.value);
     }
+//function for tan
 function tan()
     {
         screen.value=Math.tan(screen.value);
