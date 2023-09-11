@@ -35,6 +35,7 @@ function tan()
     {
         screen.value=Math.tan(screen.value);
     }
+//function for power
 function pow()
     {
         screen.value=Math.pow(screen.value,2);
