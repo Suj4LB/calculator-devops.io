@@ -40,6 +40,7 @@ function pow()
     {
         screen.value=Math.pow(screen.value,2);
     }
+//function for square
  function sqrt()
     {
         screen.value=Math.sqrt(screen.value,2);
