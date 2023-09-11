@@ -74,6 +74,6 @@ function e()
 
     function backspc()
     {
-        screen.value=screen.value.substr(0,screen.value.length-1);
+        screen.value=screen.value.slice(0,-1);
     }
 
